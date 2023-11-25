@@ -33,7 +33,7 @@
 *.exe
 *.out
 *.app
-*.txt
+# *.txt
 CMakeFiles/
 *.cbp
 Testing/

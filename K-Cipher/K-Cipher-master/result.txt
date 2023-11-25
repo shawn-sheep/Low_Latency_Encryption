@@ -1,0 +1,57 @@
+                                                                                                                             
+┌──(kali㉿kali)-[~/Low_Latency_Encryption/K-Cipher/K-Cipher-master]
+└─$ ./K_Cipher  
+22      16      0       1
+51      29      292
+53      a9      292
+
+________________________
+f       d       0       2
+65      aa      329
+67      2a      329
+
+________________________
+13      2       0       3
+45      1a      243
+47      9a      243
+
+________________________
+The attack round 3 finished in(ms):4.11414e+06
+Characteristic: 22 -> 11 on sbox number: 2 holds with probability: 2^-6.4784
+22      11      0       2
+49      f7      bfa
+c9      77      bfa
+
+________________________
+Characteristic: 15 -> 18 on sbox number: 1 holds with probability: 2^-6.24011
+15      18      0       1
+28      25      c8c
+a8      a5      c8c
+
+________________________
+Characteristic: 19 -> 0 on sbox number: 3 holds with probability: 2^-10.3276
+19      0       0       3
+23      4d      64e
+a3      cd      64e
+
+________________________
+The attack round 2 finished in(ms):4.14217e+06
+Characteristic: 22 -> 17 on sbox number: 1 holds with probability: 2^-1.18442
+22      17      0       1
+1       ff      19ef
+81      7f      19ef
+
+________________________
+Characteristic: 18 -> 5 on sbox number: 3 holds with probability: 2^-5.52224
+18      5       0       3
+24      7d      24e2
+a4      fd      24e2
+
+________________________
+Characteristic: 15 -> 8 on sbox number: 2 holds with probability: 2^-0.287151
+15      8       0       2
+6c      7f      2fb0
+ec      ff      2fb0
+
+________________________
+The attack round 1 finished in(ms):4.32845e+06
